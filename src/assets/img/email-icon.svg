@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="14px" viewBox="0 0 21 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group 7 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.129858156 19.9999643 0.129858156 19.9999643 12.7659574 0 12.7659574"></polygon>
+        <polygon id="path-3" points="0.0378788871 0 18.5254403 0 18.5254403 7.56503343 0.0378788871 7.56503343"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04.results_01-copy-5" transform="translate(-21.000000, -331.000000)">
+            <g id="Group-7-Copy" transform="translate(21.500000, 331.230769)">
+                <g id="Group-3" transform="translate(0.000000, 0.851064)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M19.6071071,0.129858156 L10.58175,7.36815603 C10.5160357,7.4206383 10.43675,7.44687943 10.3571071,7.44687943 C10.2838929,7.44687943 10.2103214,7.42453901 10.1478214,7.37950355 L0.288892857,0.291205674 C0.10425,0.61035461 -3.57142857e-05,0.991560284 -3.57142857e-05,1.41851064 L-3.57142857e-05,10.6383688 C-3.57142857e-05,11.8511348 0.894607143,12.7660284 2.08067857,12.7660284 L17.8571071,12.7660284 C19.0388929,12.7660284 19.9999643,11.8114184 19.9999643,10.6383688 L19.9999643,1.41851064 C19.9999643,0.917446809 19.8571071,0.478085106 19.6071071,0.129858156" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Group-6" transform="translate(0.851064, 0.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <path d="M18.3357512,0.352632219 C17.9889607,0.126492401 17.5608514,-7.29483283e-05 17.0776785,-7.29483283e-05 L1.03269286,-7.29483283e-05 C0.471483021,-7.29483283e-05 -0.016065747,0.170990881 -0.387653028,0.470443769 L9.4078107,7.56503343 L18.3357512,0.352632219 Z" id="Fill-4" fill="#FFFFFF" mask="url(#mask-4)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
