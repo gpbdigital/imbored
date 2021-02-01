@@ -1,5 +1,5 @@
 # imbored
-https://gpb-imbored.herokuapp.com/
+https://imbored.ie/
 
 ## Project setup
 ```
